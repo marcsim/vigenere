@@ -1,0 +1,8 @@
+Code de Vigenère : le but de ce projet est de réaliser un programme permettant de crypter et décrypter un message à l'aide de la méthode de Vigenère.
+Cette première phase réalisée, il sera demandé de produire un programme « cassant » le message crypté. Pour cela plusieurs méthodes pourront être utilisées : indice de coïncidence, force brute...
+
+Langage : C
+
+
+force brute : tester toute les combinaisons possibles en temps fini ( augmente avec la longueur du mot de passe) 
+
